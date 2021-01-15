@@ -1,0 +1,43 @@
+.navbar-brand img{
+    width: 190px;
+}
+.col-md-6 img{
+    width: 100%;
+}
+.penguine{
+    color: rgb(246, 213, 22);
+}
+.logo img{
+    width: 100px;
+}
+.pink{
+    background-color: #faf0f1 ;
+}
+.ground img{
+    width: 100%;
+    margin-left: 50px;
+}
+h3{
+    margin-left: 50px;
+    color: rgb(241, 186, 46);
+    font-weight: bold;
+}
+h5{
+    font-weight: bold;
+}
+.contact{
+    margin-left: 30px
+}
+header{
+    background-color: rgb(250, 240, 241);
+}
+.back{
+    background-color: rgb(250, 241, 242);
+}
+
+@media (max-width: 768px) {
+    .ground img{
+        margin-top: 70px;
+        
+    }
+}
